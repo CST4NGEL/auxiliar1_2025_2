@@ -4,4 +4,4 @@
 
 ### Idealmente deberían explicar como instalar y usar su proyecto
 ### Nosotros les pediremos que expliquen que decisiones tomaron al programar y porque
-### edite para subir commit
+### edite para subir commit a
